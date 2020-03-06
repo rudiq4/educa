@@ -1,0 +1,34 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+    "slug": "matematika"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "\u0424\u0456\u0437\u0438\u043a\u0430",
+    "slug": "fizika"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "\u0425\u0456\u043c\u0456\u044f",
+    "slug": "himiya"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "\u0406\u0441\u0442\u043e\u0440\u0456\u044f",
+    "slug": "istoriya"
+  }
+}
+]
